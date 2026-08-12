@@ -1,1 +1,1 @@
-# Quantum-Opt.-for-Parameter-Estimation-in-Dynamical-Systems
+# Quantum-Optimization-for-Parameter-Estimation-in-Dynamical-Systems
